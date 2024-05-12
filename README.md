@@ -33,5 +33,5 @@ __*step 3:*__ Подсчет подходящих строк (длина не б
 
 ### string[] suitableStrings
 
-
+![alt text](block_diagramm.png)
  
